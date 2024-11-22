@@ -1,2 +1,2 @@
-# SANDIK
-Gömülü Sistemler için Internetten Toplanmış Bilgi Hazinesi
+# SANDIK 🎁
+Gömülü Sistemlerle ilgili internette bulduğum faydalı dokümanları burada biriktiriyorum...
