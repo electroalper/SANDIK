@@ -1,2 +1,2 @@
-# SANDIK 🎁
-Gömülü Sistemlerle ilgili internette bulduğum faydalı dokümanları SANDIK'ta biriktiriyorum...
+# Sandıkta Ne Var?
+Gömülü Sistemlerle ilgili faydalı dokümanları SANDIK'ta biriktiriyorum.
